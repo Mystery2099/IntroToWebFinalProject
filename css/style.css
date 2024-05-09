@@ -49,3 +49,6 @@ ul.double-columns {
 ul.double-columns:nth-child(odd) {
     text-align: right;
 }
+.text-outline {
+    text-shadow: -2px -2px 0 black, 2px -2px 0 black, 2px 2px 0 black, 2px 2px 0 black;
+}
